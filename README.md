@@ -1,6 +1,8 @@
 # Algorithm_04
 In Model 1
 
+![1](https://user-images.githubusercontent.com/102566676/173290436-d039d74d-3f93-4efd-8cd4-a77c71ec060a.png)
+
 Training with Training loss
 ![m1](https://user-images.githubusercontent.com/102566676/173289864-4de301ae-0d6d-4006-aa9a-b878e5e9c6d3.png)
 
@@ -15,6 +17,8 @@ Images and corresponding probability that predicted Wrong
 
 In Model 2
 
+![2](https://user-images.githubusercontent.com/102566676/173290438-c13f04de-643a-4590-8048-9d4a6ccc64ec.png)
+
 Training with Training loss
 ![m2](https://user-images.githubusercontent.com/102566676/173289888-efa3005e-59d4-448e-8549-e3e25aa3f3da.png)
 
@@ -28,6 +32,8 @@ Images and corresponding probability that predicted Wrong
 ![model_2_fail](https://user-images.githubusercontent.com/102566676/173288840-811ce45f-7a71-40a6-be0f-35b5dfdd668a.png)
 
 In Model 3
+
+![3](https://user-images.githubusercontent.com/102566676/173290440-6ca4d38a-f610-4f4b-ac9a-65d07a127476.png)
 
 Training with Training loss
 ![m3](https://user-images.githubusercontent.com/102566676/173289925-effcd7ee-d4ab-415d-b8c9-86116c1d7eae.png)
